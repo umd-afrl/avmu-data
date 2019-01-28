@@ -1,0 +1,200 @@
+"[  -13.  +54.j     3.  +56.j    26.  +50.j ... -1114.+1641.j  -767.+1938.j
+  -327.+2142.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5556, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -14.  +53.j     4.  +59.j    25.  +47.j ... -1114.+1637.j  -766.+1938.j
+  -325.+2157.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5557, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -13.  +54.j     5.  +58.j    26.  +49.j ... -1115.+1642.j  -765.+1939.j
+  -327.+2157.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5558, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -13.  +57.j     4.  +55.j    27.  +49.j ... -1111.+1644.j  -766.+1944.j
+  -324.+2164.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5559, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -13.  +55.j     9.  +56.j    25.  +49.j ... -1116.+1644.j  -764.+1942.j
+  -324.+2166.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5560, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -15.  +52.j     2.  +58.j    29.  +50.j ... -1111.+1642.j  -764.+1945.j
+  -320.+2171.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5561, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -15.  +54.j     6.  +56.j    29.  +48.j ... -1112.+1642.j  -769.+1942.j
+  -324.+2168.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5562, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -13.  +55.j     6.  +56.j    27.  +48.j ... -1110.+1634.j  -773.+1944.j
+  -326.+2173.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5563, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -14.  +53.j     4.  +57.j    32.  +48.j ... -1107.+1641.j  -772.+1945.j
+  -331.+2181.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5564, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -14.  +57.j     3.  +53.j    29.  +51.j ... -1117.+1641.j  -775.+1950.j
+  -327.+2179.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5565, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -14.  +52.j     5.  +55.j    27.  +44.j ... -1113.+1640.j  -773.+1950.j
+  -329.+2188.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5566, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -15.  +55.j     4.  +55.j    25.  +49.j ... -1115.+1643.j  -772.+1952.j
+  -331.+2181.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5567, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -11.  +53.j     8.  +54.j    28.  +46.j ... -1109.+1645.j  -772.+1952.j
+  -331.+2186.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5568, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -14.  +56.j     8.  +57.j    29.  +49.j ... -1113.+1645.j  -767.+1951.j
+  -328.+2180.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5569, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -14.  +52.j     3.  +57.j    30.  +44.j ... -1110.+1644.j  -766.+1953.j
+  -320.+2177.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5570, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -16.  +52.j     7.  +57.j    31.  +45.j ... -1107.+1639.j  -771.+1953.j
+  -317.+2179.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5571, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -11.  +56.j     4.  +55.j    26.  +46.j ... -1105.+1640.j  -768.+1947.j
+  -320.+2178.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5572, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -14.  +50.j     7.  +55.j    24.  +50.j ... -1105.+1639.j  -766.+1946.j
+  -318.+2183.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5573, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -14.  +51.j     8.  +57.j    27.  +48.j ... -1105.+1636.j  -763.+1944.j
+  -321.+2179.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5574, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -14.  +57.j     6.  +59.j    28.  +50.j ... -1098.+1639.j  -763.+1947.j
+  -318.+2180.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5575, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -14.  +53.j     6.  +56.j    27.  +45.j ... -1097.+1640.j  -761.+1939.j
+  -320.+2175.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5576, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -14.  +55.j     9.  +55.j    29.  +49.j ... -1093.+1642.j  -758.+1937.j
+  -319.+2170.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5577, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -15.  +57.j     3.  +57.j    27.  +49.j ... -1095.+1640.j  -757.+1946.j
+  -315.+2172.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5578, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -15.  +53.j     5.  +53.j    30.  +51.j ... -1093.+1640.j  -754.+1949.j
+  -311.+2168.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5579, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -13.  +55.j     0.  +57.j    26.  +51.j ... -1087.+1641.j  -750.+1943.j
+  -311.+2176.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5580, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -13.  +57.j     3.  +56.j    27.  +45.j ... -1086.+1650.j  -751.+1945.j
+  -312.+2167.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5581, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -11.  +54.j     5.  +57.j    32.  +46.j ... -1088.+1643.j  -750.+1938.j
+  -312.+2171.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5582, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -12.  +58.j     4.  +59.j    28.  +48.j ... -1084.+1641.j  -750.+1940.j
+  -313.+2172.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5583, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -13.  +53.j     6.  +57.j    28.  +46.j ... -1089.+1645.j  -750.+1944.j
+  -310.+2174.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5584, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -17.  +55.j     5.  +53.j    28.  +47.j ... -1089.+1646.j  -746.+1947.j
+  -308.+2173.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5585, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -11.  +55.j     8.  +57.j    28.  +47.j ... -1088.+1653.j  -744.+1955.j
+  -302.+2181.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5586, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -12.  +54.j     6.  +53.j    28.  +46.j ... -1089.+1658.j  -743.+1955.j
+  -301.+2191.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5587, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -13.  +54.j     6.  +54.j    28.  +47.j ... -1087.+1660.j  -744.+1954.j
+  -296.+2175.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5588, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -14.  +56.j     9.  +52.j    27.  +47.j ... -1091.+1658.j  -741.+1959.j
+  -297.+2185.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5589, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -15.  +54.j     7.  +55.j    27.  +45.j ... -1095.+1660.j  -742.+1961.j
+  -298.+2182.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5590, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -11.  +56.j     5.  +55.j    25.  +43.j ... -1088.+1661.j  -743.+1965.j
+  -293.+2180.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5591, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -13.  +56.j     8.  +54.j    30.  +46.j ... -1092.+1659.j  -745.+1962.j
+  -291.+2188.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5592, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[   -8.  +54.j     5.  +52.j    28.  +47.j ... -1093.+1660.j  -743.+1965.j
+  -294.+2185.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5593, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -14.  +57.j     9.  +57.j    29.  +46.j ... -1092.+1663.j  -739.+1969.j
+  -291.+2193.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5594, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -12.  +55.j     6.  +54.j    30.  +45.j ... -1093.+1660.j  -747.+1966.j
+  -293.+2191.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5595, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -12.  +54.j     7.  +55.j    28.  +44.j ... -1091.+1662.j  -746.+1963.j
+  -295.+2193.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5596, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -14.  +54.j     5.  +59.j    26.  +47.j ... -1090.+1661.j  -743.+1966.j
+  -290.+2186.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5597, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -11.  +54.j     7.  +51.j    29.  +43.j ... -1092.+1664.j  -738.+1963.j
+  -294.+2184.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5598, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -13.  +54.j     5.  +54.j    30.  +46.j ... -1091.+1662.j  -735.+1962.j
+  -292.+2180.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5599, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -11.  +55.j     6.  +54.j    30.  +49.j ... -1089.+1663.j  -741.+1964.j
+  -291.+2182.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5600, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -11.  +55.j     5.  +55.j    33.  +48.j ... -1094.+1659.j  -739.+1960.j
+  -294.+2184.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5601, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -12.  +55.j     6.  +58.j    29.  +46.j ... -1090.+1660.j  -737.+1962.j
+  -291.+2179.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5602, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -12.  +55.j     6.  +54.j    26.  +47.j ... -1086.+1666.j  -734.+1963.j
+  -292.+2177.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5603, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -11.  +56.j     7.  +54.j    30.  +49.j ... -1089.+1663.j  -736.+1961.j
+  -288.+2176.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5604, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -10.  +56.j     4.  +54.j    26.  +47.j ... -1088.+1660.j  -738.+1957.j
+  -294.+2172.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5605, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -14.  +53.j     5.  +55.j    29.  +51.j ... -1086.+1657.j  -737.+1956.j
+  -292.+2179.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5606, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -16.  +53.j     9.  +54.j    29.  +47.j ... -1084.+1658.j  -739.+1954.j
+  -298.+2177.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5607, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -10.  +57.j     9.  +57.j    30.  +46.j ... -1082.+1654.j  -737.+1955.j
+  -298.+2186.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5608, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -11.  +56.j     9.  +53.j    32.  +49.j ... -1086.+1656.j  -737.+1956.j
+  -299.+2180.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5609, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -13.  +55.j     6.  +52.j    31.  +45.j ... -1085.+1659.j  -734.+1955.j
+  -297.+2181.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5610, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -12.  +57.j     7.  +53.j    27.  +47.j ... -1081.+1656.j  -739.+1953.j
+  -301.+2172.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5611, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -14.  +57.j    10.  +54.j    26.  +45.j ... -1078.+1659.j  -735.+1953.j
+  -298.+2174.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5612, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -10.  +56.j     8.  +54.j    30.  +45.j ... -1081.+1654.j  -736.+1953.j
+  -298.+2177.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5613, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -15.  +54.j     6.  +55.j    29.  +48.j ... -1079.+1656.j  -734.+1953.j
+  -296.+2174.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5614, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -15.  +59.j     4.  +57.j    28.  +47.j ... -1081.+1654.j  -736.+1952.j
+  -298.+2180.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5615, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -12.  +54.j     8.  +56.j    28.  +49.j ... -1082.+1651.j  -737.+1952.j
+  -301.+2176.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5616, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -12.  +58.j     6.  +60.j    29.  +50.j ... -1078.+1652.j  -731.+1948.j
+  -298.+2179.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5617, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -14.  +56.j     7.  +56.j    32.  +47.j ... -1077.+1655.j  -735.+1951.j
+  -296.+2172.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5618, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -12.  +51.j     8.  +56.j    30.  +47.j ... -1075.+1654.j  -732.+1949.j
+  -296.+2172.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5619, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -11.  +54.j     6.  +57.j    31.  +46.j ... -1076.+1649.j  -736.+1946.j
+  -293.+2180.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5620, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -10.  +54.j     4.  +55.j    29.  +47.j ... -1072.+1651.j  -737.+1947.j
+  -302.+2175.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5621, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -15.  +54.j    10.  +56.j    29.  +45.j ... -1077.+1655.j  -733.+1949.j
+  -297.+2184.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5622, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -10.  +57.j     7.  +53.j    33.  +48.j ... -1078.+1652.j  -739.+1948.j
+  -301.+2179.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5623, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -12.  +53.j     9.  +55.j    32.  +44.j ... -1075.+1656.j  -732.+1945.j
+  -298.+2182.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5624, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -15.  +51.j     9.  +54.j    29.  +48.j ... -1075.+1653.j  -740.+1945.j
+  -294.+2177.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5625, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -11.  +54.j     6.  +56.j    30.  +48.j ... -1074.+1651.j  -737.+1948.j
+  -295.+2178.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5626, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[   -9.  +54.j     4.  +55.j    28.  +46.j ... -1079.+1652.j  -737.+1950.j
+  -298.+2182.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5627, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -14.  +56.j     8.  +56.j    28.  +44.j ... -1080.+1654.j  -739.+1953.j
+  -299.+2181.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5628, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -13.  +55.j     8.  +57.j    29.  +46.j ... -1080.+1652.j  -740.+1951.j
+  -304.+2189.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5629, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[   -9.  +52.j     8.  +58.j    29.  +47.j ... -1083.+1649.j  -745.+1949.j
+  -300.+2181.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5630, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -12.  +55.j     5.  +57.j    27.  +46.j ... -1076.+1645.j  -740.+1948.j
+  -303.+2185.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5631, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -12.  +54.j     7.  +58.j    30.  +44.j ... -1080.+1655.j  -741.+1950.j
+  -301.+2181.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5632, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -12.  +52.j     8.  +53.j    29.  +49.j ... -1081.+1653.j  -741.+1948.j
+  -310.+2185.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5633, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -11.  +54.j     5.  +57.j    28.  +40.j ... -1081.+1647.j  -749.+1945.j
+  -309.+2182.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5634, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -12.  +56.j     8.  +56.j    33.  +50.j ... -1077.+1643.j  -748.+1941.j
+  -311.+2176.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5635, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -13.  +55.j     6.  +54.j    30.  +46.j ... -1078.+1640.j  -745.+1946.j
+  -309.+2182.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5636, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -12.  +54.j     5.  +54.j    30.  +49.j ... -1080.+1648.j  -746.+1949.j
+  -303.+2182.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5637, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[   -9.  +53.j     6.  +54.j    28.  +46.j ... -1083.+1649.j  -743.+1955.j
+  -301.+2194.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5638, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -13.  +52.j     7.  +55.j    29.  +45.j ... -1088.+1655.j  -744.+1957.j
+  -300.+2186.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5639, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -13.  +54.j    10.  +55.j    29.  +49.j ... -1089.+1649.j  -750.+1961.j
+  -302.+2191.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5640, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -12.  +52.j     6.  +57.j    26.  +44.j ... -1088.+1648.j  -754.+1956.j
+  -302.+2194.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5641, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -14.  +54.j     6.  +58.j    27.  +50.j ... -1087.+1649.j  -747.+1951.j
+  -304.+2183.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5642, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -15.  +54.j     4.  +56.j    32.  +47.j ... -1082.+1647.j  -747.+1951.j
+  -302.+2195.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5643, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -14.  +53.j     9.  +55.j    30.  +49.j ... -1087.+1654.j  -744.+1956.j
+  -302.+2184.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5644, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -12.  +56.j    10.  +52.j    29.  +49.j ... -1085.+1659.j  -738.+1955.j
+  -291.+2191.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5645, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -14.  +54.j     8.  +55.j    29.  +47.j ... -1073.+1672.j  -724.+1961.j
+  -278.+2180.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5646, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[   -9.  +58.j     9.  +53.j    29.  +47.j ... -1066.+1678.j  -711.+1965.j
+  -276.+2174.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5647, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -13.  +54.j     5.  +58.j    28.  +44.j ... -1065.+1680.j  -712.+1965.j
+  -272.+2178.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5648, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -12.  +54.j     5.  +52.j    28.  +50.j ... -1063.+1676.j  -711.+1967.j
+  -270.+2178.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5649, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -12.  +54.j     8.  +57.j    29.  +48.j ... -1065.+1675.j  -712.+1971.j
+  -267.+2184.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5650, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -12.  +51.j     6.  +56.j    27.  +44.j ... -1066.+1682.j  -710.+1965.j
+  -266.+2176.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5651, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -11.  +54.j    10.  +56.j    28.  +45.j ... -1062.+1678.j  -712.+1969.j
+  -262.+2178.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5652, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -13.  +56.j     8.  +54.j    29.  +47.j ... -1065.+1678.j  -707.+1968.j
+  -260.+2171.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5653, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -11.  +53.j     4.  +57.j    31.  +46.j ... -1065.+1681.j  -706.+1971.j
+  -257.+2173.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5654, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
+"[  -13.  +54.j     9.  +57.j    31.  +45.j ... -1059.+1675.j  -709.+1967.j
+  -256.+2177.j]","{'avmu_ip': '192.168.1.219', 'tx_port': 0, 'tx_port_s': 'AVMU_TX_PATH_0', 'rx_port': 1, 'rx_port_s': 'AVMU_RX_PATH_1', 'timestamp_ticks': 0, 'timestamp_seconds': 0.0, 'sweep_number': 5655, 'shaft_encoder_left': 0, 'shaft_encoder_right': 0, 'serial_data_age': 0, 'serial_data_bytes': b''}"
