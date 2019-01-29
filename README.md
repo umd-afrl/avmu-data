@@ -1,1 +1,2 @@
 # avmu-data
+This repository contains raw data from our Akela VMU captured using [`demo-simple.py`](umd-afrl/avmu/demo-simple.py). Because Python's `pickle` is used for serialization the serialized versions are very sensitive to changes in dependency version.
