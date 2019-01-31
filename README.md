@@ -1,2 +1,5 @@
 # avmu-data
-This repository contains raw data from our Akela VMU captured using [`demo-simple.py`](umd-afrl/avmu/demo-simple.py). Because Python's `pickle` is used for serialization the serialized versions are very sensitive to changes in dependency version.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/umd-afrl/avmu-data/master?filepath=Akela%20ASTIR.ipynb)
+
+This repository contains data captured from an Akela VMU. Launch Binder to interactively view the included Jupyter notebook.
