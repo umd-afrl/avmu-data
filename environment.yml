@@ -6,5 +6,8 @@ dependencies:
   - imageio
   - ipywidgets
   - numpy
+  - holoviews
+  - colorcet
+  - tornado
 prefix: /anaconda3
 
